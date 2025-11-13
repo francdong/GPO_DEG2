@@ -15,4 +15,4 @@ Gestione Progetto e Organizzazione di Impresa
 8. https://francdong.github.io/informatica/P8.html
    
 # Provare su Packet tracert
-https://francdong.github.io/GPO_DEG/gpo_Porter7.pkt
+https://francdong.github.io/GPO_DEG/gpo_Porter9.pkt
